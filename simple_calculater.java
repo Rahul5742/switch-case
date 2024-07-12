@@ -13,18 +13,18 @@ public class simple_calculater {
         float a=sc.nextFloat();
         System.out.print("Enter your num = ");
         float b=sc.nextFloat();
-        switch(sum){
+        switch (sum) {
             case 1:
-                System.out.println("sum = "+(a+b));
+                System.out.println("sum = " + (a + b));
                 break;
             case 2:
-                System.out.println("sum = "+(a-b));
+                System.out.println("sum = " + (a - b));
                 break;
-            case 3:Ð
-                System.out.println("sum = "+(a*b));
+            case 3:
+                System.out.println("sum = " + (a * b));
                 break;
             case 4:
-                System.out.println("sum = "+(a/b));
+                System.out.println("sum = " + (a / b));
                 break;
         }
     }

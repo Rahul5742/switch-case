@@ -34,8 +34,8 @@ public class Using_switch_sowing_days {
                         System.out.println("saturday");
                         break;
                     default:
-                        System.out.println("invalid number;");
-                        break
+                        System.out.println("invalid number:");
+                        break;
                 }
     }
 }
